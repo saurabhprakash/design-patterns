@@ -64,7 +64,6 @@ class Reader(Observer):
     """class Reader child of Observer"""
 
     def __init__(self, name):
-        self.news = News()
         self.reader_name = name
 
     def get_news(self, news):
