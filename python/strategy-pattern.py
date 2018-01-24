@@ -3,7 +3,8 @@ Define a family of algorithms, encapsulate each one, and make them
 interchangeable. Strategy lets the algorithm vary independently from
 clients that use it.
 
-#Source: https://sourcemaking.com/design_patterns/strategy/python/1
+# Source: https://sourcemaking.com/design_patterns/strategy/python/1
+# Run on python 3
 """
 
 import abc
